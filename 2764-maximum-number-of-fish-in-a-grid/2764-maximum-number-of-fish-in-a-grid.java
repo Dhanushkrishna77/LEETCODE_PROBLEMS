@@ -12,7 +12,6 @@ class Solution {
         }
         return result;
     }
-
     private int countFishes(int[][] grid, boolean[][] visited, int row, int col) {
         int numRows = grid.length, numCols = grid[0].length, fishCount = 0;
         Queue<int[]> q = new LinkedList<>();
