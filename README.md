@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-shortest-distance-to-a-character](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0841-shortest-distance-to-a-character) |
 | [0854-making-a-large-island](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
+| [1364-tuple-with-same-product](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Search
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
