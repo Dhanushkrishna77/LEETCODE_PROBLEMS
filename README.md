@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1279-prime-arrangements](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1289-day-of-the-week) |
+| [2448-count-number-of-bad-pairs](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 ## Array
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2448-count-number-of-bad-pairs](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3429-special-array-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Binary Search
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Simulation
 |  |
