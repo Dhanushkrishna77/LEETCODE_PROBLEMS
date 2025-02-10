@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0841-shortest-distance-to-a-character) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3447-clear-digits](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2434-design-a-number-container-system) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
