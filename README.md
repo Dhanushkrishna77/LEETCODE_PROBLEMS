@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -140,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
