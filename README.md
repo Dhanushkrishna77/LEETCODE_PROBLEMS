@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2164-two-best-non-overlapping-events](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
 | [2448-count-number-of-bad-pairs](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1917-maximum-average-pass-ratio) |
+| [2164-two-best-non-overlapping-events](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
 | [2434-design-a-number-container-system](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2164-two-best-non-overlapping-events](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2164-two-best-non-overlapping-events](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Data Stream
 |  |
@@ -198,4 +202,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2164-two-best-non-overlapping-events](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
