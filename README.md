@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
 | [0841-shortest-distance-to-a-character](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0841-shortest-distance-to-a-character) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1160-letter-tile-possibilities) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
 | [1160-letter-tile-possibilities](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
