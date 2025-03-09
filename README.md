@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2102-find-the-middle-index-in-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
