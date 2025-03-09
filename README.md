@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0092-reverse-linked-list-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0908-middle-of-the-linked-list) |
 ## Number Theory
 |  |
