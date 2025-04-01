@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2391-strong-password-checker-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2391-strong-password-checker-ii) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
