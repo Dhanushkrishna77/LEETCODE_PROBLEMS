@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0416-partition-equal-subset-sum) |
