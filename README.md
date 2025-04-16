@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0068-text-justification) |
 | [0135-candy](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0416-partition-equal-subset-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
 | [0768-partition-labels](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0841-shortest-distance-to-a-character) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0068-text-justification) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2551-apply-operations-to-an-array) |
