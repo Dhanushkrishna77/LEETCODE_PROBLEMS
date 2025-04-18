@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
 | [0768-partition-labels](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0768-partition-labels) |
