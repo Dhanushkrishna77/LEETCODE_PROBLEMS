@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0060-permutation-sequence) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1279-prime-arrangements](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1289-day-of-the-week) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0416-partition-equal-subset-sum) |
+| [0797-rabbits-in-forest](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0797-rabbits-in-forest) |
 | [0841-shortest-distance-to-a-character](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0841-shortest-distance-to-a-character) |
 | [0854-making-a-large-island](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0797-rabbits-in-forest) |
 | [1917-maximum-average-pass-ratio](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1917-maximum-average-pass-ratio) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2681-put-marbles-in-bags) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1160-letter-tile-possibilities) |
