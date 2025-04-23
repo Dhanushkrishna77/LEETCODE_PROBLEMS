@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1279-prime-arrangements](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1289-day-of-the-week) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
