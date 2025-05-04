@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1364-tuple-with-same-product) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1917-maximum-average-pass-ratio](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2456-construct-smallest-number-from-di-string) |
