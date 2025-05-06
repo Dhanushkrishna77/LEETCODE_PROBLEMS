@@ -1,7 +1,7 @@
 class Solution(object):
     def buildArray(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
-        return [nums[i] for i in nums]
+        n=len(nums)
+        a=[0]*n
+        for i in range(n):
+            a[i]=nums[nums[i]]
+        return a
