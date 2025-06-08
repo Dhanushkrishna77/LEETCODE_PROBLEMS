@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -491,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
