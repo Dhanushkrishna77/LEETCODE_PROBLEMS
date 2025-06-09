@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0068-text-justification) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0018-4sum) |
 | [0768-partition-labels](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0868-push-dominoes) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0018-4sum) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
