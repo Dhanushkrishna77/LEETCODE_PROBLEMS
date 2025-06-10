@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0018-4sum) |
+| [0051-n-queens](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0068-text-justification) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0051-n-queens) |
 | [0093-restore-ip-addresses](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
 | [1160-letter-tile-possibilities](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
