@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3637-count-number-of-balanced-permutations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Counting
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3643-zero-array-transformation-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3548-find-the-count-of-good-integers) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Recursion
 |  |
 | ------- |
