@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2102-find-the-middle-index-in-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
