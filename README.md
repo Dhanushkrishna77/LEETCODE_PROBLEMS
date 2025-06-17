@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Array
 |  |
 | ------- |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
