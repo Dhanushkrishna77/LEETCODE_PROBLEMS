@@ -9,3 +9,4 @@ class Solution(object):
             while i<len(nums)and nums[i]-start<=k:
                 i+=1
         return c
+        return c
