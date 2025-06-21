@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3548-find-the-count-of-good-integers) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Data Stream
