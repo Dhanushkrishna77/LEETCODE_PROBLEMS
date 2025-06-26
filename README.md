@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2391-strong-password-checker-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2391-strong-password-checker-ii) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -539,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0386-lexicographical-numbers) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
