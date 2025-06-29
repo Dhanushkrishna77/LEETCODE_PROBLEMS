@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0908-middle-of-the-linked-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0018-4sum) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
