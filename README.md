@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3618-find-the-original-typed-string-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3637-count-number-of-balanced-permutations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3643-zero-array-transformation-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Backtracking
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3618-find-the-original-typed-string-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3637-count-number-of-balanced-permutations) |
 ## Linked List
 |  |
