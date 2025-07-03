@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3548-find-the-count-of-good-integers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0060-permutation-sequence) |
 | [2050-count-good-numbers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
