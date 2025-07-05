@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
+| [0678-valid-parenthesis-string](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0868-push-dominoes) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/3001-apply-operations-to-maximize-score) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0416-partition-equal-subset-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0806-domino-and-tromino-tiling](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
