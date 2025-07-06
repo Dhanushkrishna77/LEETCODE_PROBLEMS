@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
