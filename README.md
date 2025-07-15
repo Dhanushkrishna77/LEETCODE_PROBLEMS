@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0060-permutation-sequence) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0797-rabbits-in-forest) |
