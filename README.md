@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0060-permutation-sequence) |
+| [0189-rotate-array](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0068-text-justification) |
 | [0135-candy](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0018-4sum) |
+| [0189-rotate-array](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/Dhanushkrishna77/LEETCODE_PROBLEMS/tree/master/0841-shortest-distance-to-a-character) |
